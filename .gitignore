@@ -1,0 +1,17 @@
+﻿# Windows
+Thumbs.db
+Desktop.ini
+
+# Node/Frontend
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+dist/
+build/
+.cache/
+
+# Editors/OS
+.vscode/
+.idea/
+.DS_Store
